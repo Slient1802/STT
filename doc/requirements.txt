@@ -5,7 +5,7 @@ sphinx==3.5.2
 # See for example https://github.com/mozilla/sphinx-js/pull/184
 git+https://github.com/reuben/sphinx-js.git@e222ef7fbbbc0a119aa32568137ee5f4e9a2f33e
 furo==2021.2.28b28
-pygments==2.7.4
+pygments==2.15.0
 docutils>=0.12,<=0.17.1
 #FIXME: switch to stable after C# changes have been merged: https://github.com/djungelorm/sphinx-csharp/pull/8
 git+https://github.com/reuben/sphinx-csharp.git@61c6541ce73bf6734b6980d21f690d77cb3d9ed3
